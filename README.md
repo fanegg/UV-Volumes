@@ -1,4 +1,4 @@
-# UV Volumes for Real-time Rendering of Editable Free-view Human Performance<br><sub>Official PyTorch implementation</sub>
+# UV Volumes for Real-time Rendering of Editable Free-view Human Performance<br><sub>Official PyTorch Implementation</sub>
 
 ![Teaser image](./teaser.png)
 

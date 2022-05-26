@@ -1,6 +1,6 @@
 # UV Volumes for Real-time Rendering of Editable Free-view Human Performance<br><sub>Official PyTorch Implementation</sub>
 
-![Teaser image](./teaser.png)
+![Teaser image](./teaser.jpg)
 
 **UV Volumes for Real-time Rendering of Editable Free-view Human Performance**<br>
 Yue Chen, Xuan Wang, Qi Zhang, Xiaoyu Li, Xingyu Chen, Yu Guo, Jue Wang and Fei Wang

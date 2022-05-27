@@ -13,13 +13,13 @@ Abstract: *Neural volume rendering enables photo-realistic renderings of a human
 ![demo_vid](assets/demo.gif)
 
 ## More editable free-view human performance
-### Free-view human showcase
+### Free view rendering showcase
 ![iuv](assets/iuv.jpg)
 ### We decompose the dynamic human into 3D _UV volumes_ and 2D _Neural Texture Stacks(NTS)_.
 ![dy360](assets/dy360.jpg)
-### Reshape showcase
+### Reshaping showcase
 ![reshape](assets/reshape.jpg)
-### Retexture showcase
+### Retexturing showcase
 ![retexture](assets/retexture.jpg)
 ![retexture2](assets/retexture2.jpg)
 

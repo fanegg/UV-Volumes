@@ -1,5 +1,5 @@
 # UV Volumes for Real-time Rendering of Editable Free-view Human Performance
-### [Project Page](https://fanegg.github.io/UV-Volumes) | [Paper](https://arxiv.org/pdf/2203.14402)
+### [Project Page](https://fanegg.github.io/UV-Volumes) | [Paper](https://arxiv.org/pdf/2203.14402) | [Supplementary](https://fanegg.github.io/UV-Volumes/files/UV_Volumes_Supplementary_Material.pdf)
 <br/>
 
 > UV Volumes for Real-time Rendering of Editable Free-view Human Performance  

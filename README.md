@@ -2,7 +2,7 @@
 ### [Project Page](https://fanegg.github.io/UV-Volumes) | [Paper](https://arxiv.org/pdf/2203.14402)
 <br/>
 
-> UV Volumes for Real-time Rendering of Editable Free-view Human Performance
+> UV Volumes for Real-time Rendering of Editable Free-view Human Performance  
 > [Yue Chen](https://github.com/fanegg/), [Xuan Wang](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en), [Xingyu Chen](https://github.com/rover-xingyu/), [Qi Zhang](https://qzhang-cv.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yu Guo](https://gr.xjtu.edu.cn/web/yu.guo/home), [Jue Wang](https://juewang725.github.io/), [Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm)
 > arXiv preprint arXiv:2203.14402
 > 

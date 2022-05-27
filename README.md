@@ -14,7 +14,7 @@ Abstract: *Neural volume rendering enables photo-realistic renderings of a human
 ```
 @article{chen2022uvvolumes,
   title={UV Volumes for Real-time Rendering of Editable Free-view Human Performance},
-  author={Chen, Yue and Wang, Xuan and Zhang, Qi and Li, Xiaoyu and Chen, Xingyu and Guo, Yu and Wang, Jue and Wang, Fei},
+  author={Chen, Yue and Wang, Xuan and Chen, Xingyu and Zhang, Qi and Li, Xiaoyu and Guo, Yu and Wang, Jue and Wang, Fei},
   journal={arXiv preprint arXiv:2203.14402},
   year={2022}
 }

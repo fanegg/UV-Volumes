@@ -10,11 +10,9 @@
 
 Abstract: *Neural volume rendering enables photo-realistic renderings of a human performer in free-view, a critical task in immersive VR/AR applications. But the practice is severely limited by high computational costs in the rendering process. To solve this problem, we propose the UV Volumes, a new approach that can render an editable free-view video of a human performer in realtime. It separates the high-frequency (i.e., non-smooth) human appearance from the 3D volume, and encodes them into 2D neural texture stacks (NTS). The smooth UV volumes allow much smaller and shallower neural networks to obtain densities and texture coordinates in 3D while capturing detailed appearance in 2D NTS. For editability, the mapping between the parameterized human model and the smooth texture coordinates allows us a better generalization on novel poses and shapes. Furthermore, the use of NTS enables interesting applications, e.g., retexturing. Extensive experiments on CMU Panoptic, ZJU Mocap, and H36M datasets show that our model can render 960 × 540 images in 30FPS on average with comparable photo-realism to state-of-the-art methods.*
 
-![demo_vid](assets/demo.gif)
+<!-- ![demo_vid](assets/demo.gif) -->
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ODxXfB34CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![Editable Free-view Human Performance](https://res.cloudinary.com/marcomontalbano/image/upload/v1655406367/video_to_markdown/images/youtube--5ODxXfB34CM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5ODxXfB34CM "Editable Free-view Human Performance")
 
 ## More editable free-view human performance
 ### Free view rendering showcase

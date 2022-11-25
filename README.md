@@ -23,17 +23,17 @@ Abstract: *Neural volume rendering enables photo-realistic renderings of a human
 ![reshape](assets/reshape.jpg)
 ### Retexturing showcase
 ![retexture](assets/retexture.jpg)
-![retexture2](assets/retexture2.jpg)
+<!-- ![retexture2](assets/retexture2.jpg) -->
 
 ## Brewing🍺, code coming soon.
 ## Citation
 
-If you find this code useful for your research, please use the following BibTeX entry.
+If you find this project useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@article{chen2022uvvolumes,
+@article{chen2022uv,
   title={UV Volumes for Real-time Rendering of Editable Free-view Human Performance},
-  author={Chen, Yue and Wang, Xuan and Chen, Xingyu and Zhang, Qi and Li, Xiaoyu and Guo, Yu and Wang, Jue and Wang, Fei},
+  author={Chen, Yue and Wang, Xuan and Zhang, Qi and Li, Xiaoyu and Chen, Xingyu and Guo, Yu and Wang, Jue and Wang, Fei},
   journal={arXiv preprint arXiv:2203.14402},
   year={2022}
 }

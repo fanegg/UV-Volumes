@@ -1,27 +1,28 @@
 # UV Volumes for Real-time Rendering of Editable Free-view Human Performance
 ### [Project Page](https://fanegg.github.io/UV-Volumes) | [Paper](https://arxiv.org/pdf/2203.14402) | [Supplementary](https://fanegg.github.io/UV-Volumes/files/UV_Volumes_Supplementary_Material.pdf)
-<br/>
 
 > UV Volumes for Real-time Rendering of Editable Free-view Human Performance  
 > [Yue Chen](https://fanegg.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Xingyu Chen](http://rover-xingyu.github.io/), [Qi Zhang](https://qzhang-cv.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yu Guo](https://yuguo-xjtu.github.io/), [Jue Wang](https://juewang725.github.io/), [Fei Wang](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm)  
-> arXiv preprint arXiv:2203.14402
+> CVPR 2023
 
-![Teaser image](assets/teaser.jpg)
+<!-- ![Teaser image](assets/teaser.jpg)
 
-Abstract: *Neural volume rendering enables photo-realistic renderings of a human performer in free-view, a critical task in immersive VR/AR applications. But the practice is severely limited by high computational costs in the rendering process. To solve this problem, we propose the UV Volumes, a new approach that can render an editable free-view video of a human performer in real-time. It separates the high-frequency (i.e., non-smooth) human appearance from the 3D volume, and encodes them into 2D neural texture stacks (NTS). The smooth UV volumes allow much smaller and shallower neural networks to obtain densities and texture coordinates in 3D while capturing detailed appearance in 2D NTS. For editability, the mapping between the parameterized human model and the smooth texture coordinates allows us a better generalization on novel poses and shapes. Furthermore, the use of NTS enables interesting applications, e.g., retexturing. Extensive experiments on CMU Panoptic, ZJU Mocap, and H36M datasets show that our model can render 960 x 540 images in 30FPS on average with comparable photo-realism to state-of-the-art methods.*
+Abstract: *Neural volume rendering enables photo-realistic renderings of a human performer in free-view, a critical task in immersive VR/AR applications. But the practice is severely limited by high computational costs in the rendering process. To solve this problem, we propose the UV Volumes, a new approach that can render an editable free-view video of a human performer in real-time. It separates the high-frequency (i.e., non-smooth) human appearance from the 3D volume, and encodes them into 2D neural texture stacks (NTS). The smooth UV volumes allow much smaller and shallower neural networks to obtain densities and texture coordinates in 3D while capturing detailed appearance in 2D NTS. For editability, the mapping between the parameterized human model and the smooth texture coordinates allows us a better generalization on novel poses and shapes. Furthermore, the use of NTS enables interesting applications, e.g., retexturing. Extensive experiments on CMU Panoptic, ZJU Mocap, and H36M datasets show that our model can render 960 x 540 images in 30FPS on average with comparable photo-realism to state-of-the-art methods.* -->
 
 <!-- ![demo_vid](assets/demo.gif) -->
 
-[![Editable Free-view Human Performance](https://res.cloudinary.com/marcomontalbano/image/upload/v1668514380/video_to_markdown/images/youtube--v3PsN-rMAUw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/v3PsN-rMAUw "Editable Free-view Human Performance")
+[![UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://res.cloudinary.com/marcomontalbano/image/upload/v1677854982/video_to_markdown/images/youtube--v3PsN-rMAUw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=v3PsN-rMAUw "UV Volumes for Real-time Rendering of Editable Free-view Human Performance")
 
-## More editable free-view human performance
-### Free view rendering showcase
-![iuv](assets/iuv.jpg)
+<br/>
+
+<!-- ## More editable free-view human performance
 ### We decompose the dynamic human into 3D _UV volumes_ and 2D _Neural Texture Stacks(NTS)_.
+![iuv](assets/iuv.jpg)-->
+## Free-view rendering showcase
 ![dy360](assets/dy360.jpg)
-### Reshaping showcase
-![reshape](assets/reshape.jpg)
-### Retexturing showcase
+<!-- ### Reshaping showcase
+ ![reshape](assets/reshape.jpg) -->
+## Retexturing showcase
 ![retexture](assets/retexture.jpg)
 <!-- ![retexture2](assets/retexture2.jpg) -->
 

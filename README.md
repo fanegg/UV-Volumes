@@ -11,7 +11,7 @@ Abstract: *Neural volume rendering enables photo-realistic renderings of a human
 
 <!-- ![demo_vid](assets/demo.gif) -->
 
-[![UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://res.cloudinary.com/marcomontalbano/image/upload/v1677854982/video_to_markdown/images/youtube--v3PsN-rMAUw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=v3PsN-rMAUw "UV Volumes for Real-time Rendering of Editable Free-view Human Performance")
+[![UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://res.cloudinary.com/marcomontalbano/image/upload/v1678176939/video_to_markdown/images/youtube--JftQnXLMmPc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/JftQnXLMmPc "UV Volumes for Real-time Rendering of Editable Free-view Human Performance")
 
 <br/>
 

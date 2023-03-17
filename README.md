@@ -80,8 +80,8 @@ If you find this code useful for your research, please use the following BibTeX 
 @article{chen2022uv,
   title={UV Volumes for Real-time Rendering of Editable Free-view Human Performance},
   author={Chen, Yue and Wang, Xuan and Zhang, Qi and Li, Xiaoyu and Chen, Xingyu and Guo, Yu and Wang, Jue and Wang, Fei},
-  booktitle={CVPR},
-  year={2023}
+  journal={arXiv preprint arXiv:2203.14402},
+  year={2022}
 }
 ```
 

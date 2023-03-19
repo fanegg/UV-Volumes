@@ -5,13 +5,18 @@ import imageio
 import cv2
 from lib.config import cfg
 from lib.utils import data_utils
-
+import sys
 
 class Dataset(data.Dataset):
     def __init__(self, data_root, human, ann_file, split):
         super(Dataset, self).__init__()
 
         self.data_root = data_root
+        dp_root = os.path.join(self.data_root, cfg.densepose)
+        if not os.path.exists(dp_root):
+            print("The densepose directory '{}' is not accessible.".format(dp_root))
+            sys.exit()
+    
         self.human = human
         self.split = split
 

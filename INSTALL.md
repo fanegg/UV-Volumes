@@ -62,6 +62,8 @@
 
 ### Get the pre-defined UV unwrap in DensePose
 
+> 🧙 As DensePose sometimes can not estimate UV unwrap at some viewpoints or human poses, **we ignore the semantic and UV-metric loss for the images without UV unwraps to set up a fault-tolerant mechanism.** Given the noisy and even missing UV unwraps, we achieve inter-frame and inter-view generalization of UV renderings using RGB loss as the intrinsic constraint.
+
 1. Run inference on a directory of image files with the pre-trained [DensePose](https://github.com/facebookresearch/DensePose/blob/main/GETTING_STARTED.md#inference-with-pretrained-models) models for the pre-defined UV unwrap. 
 2. Move the directory of Densepose output IUV image files to the root path of the dataset. 
 3. Organize the dataset as the following structure (the [tutorial](https://github.com/zju3dv/neuralbody/blob/master/tools/custom) is recommended), for example:
@@ -109,3 +111,5 @@
     │   │   │   ├── 00000_IUV.png
     │   │   │   ├── ...
     ```
+
+

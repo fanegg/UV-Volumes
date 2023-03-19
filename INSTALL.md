@@ -65,7 +65,6 @@
 1. Run inference on a directory of image files with the pre-trained [DensePose](https://github.com/facebookresearch/DensePose/blob/main/GETTING_STARTED.md#inference-with-pretrained-models) models for the pre-defined UV unwrap. 
 2. Move the directory of Densepose output IUV image files to the root path of the dataset. 
 3. Organize the dataset as the following structure (the [tutorial](https://github.com/zju3dv/neuralbody/blob/master/tools/custom) is recommended), for example:
-
     ```
     ├── /path/to/dataset
     │   ├── annots.npy  // Store the camera parameters and image paths.

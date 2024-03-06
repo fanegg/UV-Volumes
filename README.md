@@ -2,7 +2,7 @@
 **[Project Page](https://fanegg.github.io/UV-Volumes) | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_UV_Volumes_for_Real-Time_Rendering_of_Editable_Free-View_Human_Performance_CVPR_2023_paper.pdf) | [Latest arXiv](https://arxiv.org/pdf/2203.14402.pdf) | [Supplementary](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Chen_UV_Volumes_for_CVPR_2023_supplemental.pdf)**
 
 > UV Volumes for Real-time Rendering of Editable Free-view Human Performance  
-> [Yue Chen*](https://fanegg.github.io/), [Xuan Wang*](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en), [Xingyu Chen](https://scholar.google.com/citations?user=gDHPrWEAAAAJ&hl=en), [Qi Zhang](https://scholar.google.com/citations?user=2vFjhHMAAAAJ&hl=en), [Xiaoyu Li](https://scholar.google.com/citations?user=Dt0PcAYAAAAJ&hl=en), [Yu Guo†](https://scholar.google.com/citations?user=OemeiSIAAAAJ&hl=en), [Jue Wang](https://scholar.google.com/citations?user=Bt4uDWMAAAAJ&hl=en), [Fei Wang](https://scholar.google.com/citations?user=uU2JTpUAAAAJ&hl=en)  
+> [Yue Chen*](https://scholar.google.com/citations?user=M2hq1_UAAAAJ&hl=en), [Xuan Wang*](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en), [Xingyu Chen](https://scholar.google.com/citations?user=gDHPrWEAAAAJ&hl=en), [Qi Zhang](https://scholar.google.com/citations?user=2vFjhHMAAAAJ&hl=en), [Xiaoyu Li](https://scholar.google.com/citations?user=Dt0PcAYAAAAJ&hl=en), [Yu Guo†](https://scholar.google.com/citations?user=OemeiSIAAAAJ&hl=en), [Jue Wang](https://scholar.google.com/citations?user=Bt4uDWMAAAAJ&hl=en), [Fei Wang](https://scholar.google.com/citations?user=uU2JTpUAAAAJ&hl=en)  
 > (* equal contribution，† corresponding author)  
 > CVPR 2023
 
